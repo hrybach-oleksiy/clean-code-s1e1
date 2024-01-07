@@ -21,8 +21,10 @@ body {
 }
 
 @media (max-width:768px) {
-.aaa { text-align: center;
-}
+	
+  .aaa { 
+    text-align: center;
+  }
 }
 
 .centered-main-page-element {
@@ -52,7 +54,7 @@ h2 {
 }
 
 input,
-button{
+button {
   outline: none;
 }
 
@@ -138,7 +140,7 @@ li > label {
   width: 226px;
 }
 
-li >    input[type="text"] {
+li > input[type="text"] {
   width: 226px;
 }
 
